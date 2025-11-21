@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
+import st_lottie
+from streamlit_lottie 
 from PIL import Image
 
 import pandas as pd
@@ -303,4 +304,5 @@ with tab5:
 
     st.markdown(
         "✅ **Tip didáctico:** Puedes descargar el archivo para que practiquen filtros, "
+
         "segmentación y exportación para análisis en Excel o Power BI.")
