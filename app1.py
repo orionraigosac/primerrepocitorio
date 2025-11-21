@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 import st_lottie
 from streamlit_lottie import st_lottie 
-import Image
-from PIL 
+from PIL import Image
+ 
 
 import pandas as pd
 import numpy as np
@@ -307,5 +307,6 @@ with tab5:
         "✅ **Tip didáctico:** Puedes descargar el archivo para que practiquen filtros, "
 
         "segmentación y exportación para análisis en Excel o Power BI.")
+
 
 
